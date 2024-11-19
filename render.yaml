@@ -1,6 +1,7 @@
  services:
   - type: web
-    name: educational-website
+    name: extramathequation.web
+ 
     env: node
     plan: free
     startCommand: npm install && node index.js
