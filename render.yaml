@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: extramathequation.web
+    name: extramathequationapp.web
  
     env: node
     plan: free
